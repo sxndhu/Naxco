@@ -1,6 +1,6 @@
 # Company Website – Freelance Project (South London)
 
-This repository contains the source code for a fully responsive company website I designed and developed as a freelance web developer for a business based in South London.
+This repository contains the source code for a fully responsive company website I designed and developed as a freelance web developer for a business based in South of London.
 
 ## 📈 Project Impact
 
@@ -35,5 +35,5 @@ This project code is shared for portfolio purposes only. All rights to the conte
 
 ---
 
-*Created with care by [Your Name]*  
+*Created with care by [Angad Singh Sandhu]*  
 [https://www.linkedin.com/in/angad277/] | [contact.angads@gmail.com]
