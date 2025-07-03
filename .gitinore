@@ -1,0 +1,13 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build folders (if using a build tool later)
+dist/
+build/
+
+# files not needed to show publicly
+Images/
